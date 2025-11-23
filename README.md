@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leo
 
-**Lead Solutions Architect** building scalable distributed systems in fintech.
+**Lead Solutions Architect** bridging business goals to technical implementation while navigating constraints (cost, time, performance, risk).
 
 Currently at [PDAX](https://pdax.ph) (Philippines' leading crypto exchange), where I architect and build infrastructure, optimize cloud costs, and lead technical initiatives from design through deployment.
 
