@@ -34,5 +34,8 @@ Deepening my expertise in **Event Sourcing**, **CQRS**, and **Saga patterns**.
 
 - **LinkedIn:** [linkedin.com/in/johnleoclaudio](https://linkedin.com/in/johnleoclaudio)
 ---
-
-**Tech Stack:** Go • TypeScript • PostgreSQL • Redis • Kafka • AWS • Docker • TDD • Event-Driven Architecture
+**Programming Languages**: Go, TypeScript, JavaScript, Python
+**Databases & Data**: PostgreSQL, DynamoDB, Redis
+**Message Queues & Streaming**: Kafka, AWS SQS
+**Cloud & Infrastructure**: AWS, Docker, Kubernetes
+**Tools & DevOps**: Git, CI/CD (Github Actions), Prometheus, Grafana, Loki
